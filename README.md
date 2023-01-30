@@ -1,5 +1,9 @@
 # Tensorflow-Lite-Crack-Detection
-Made an app that classfies if there is a crack or not in the image and tags the place and time which will be shown in a common Dashbaord along with previously taken images
+Made an app that classfies if there is a crack or not in the image and tags the place and time which will be shown in a common Dashbaord along with previously taken images. It uses MobileNetV2 model with 2 additional Dense Layers for the TFLite model. Model was trained using this [dataset](https://www.kaggle.com/datasets/xinzone/surface-crack)
+
+# ARCHITECTURE:
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/57902078/215560713-24d8793e-b60e-4337-be46-93744fa64695.png)
+
 
 # Demo:
 
